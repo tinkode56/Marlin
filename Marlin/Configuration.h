@@ -483,10 +483,10 @@
                                   // is more than PID_FUNCTIONAL_RANGE then the PID will be shut off and the heater will be set to min/max.
 
   // If you are using a pre-configured hotend then you can use one of the value sets by uncommenting it
-// Creality Ender-5
-#define DEFAULT_Kp 21.73
-#define DEFAULT_Ki 1.54
-#define DEFAULT_Kd 76.55
+// Creality Ender-5 MicroSwiss HOTEND
+#define DEFAULT_Kp  32.40
+#define DEFAULT_Ki  3.81
+#define DEFAULT_Kd  68.83
   // Ultimaker
   //#define DEFAULT_Kp 26.15
   //#define DEFAULT_Ki 2.74
